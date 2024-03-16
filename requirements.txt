@@ -1,0 +1,9 @@
+gpxpy==1.6.2
+jupyter==1.0.0
+matplotlib==3.8.3
+numpy==1.26.4
+pandas==2.2.1
+seaborn==0.13.2
+tqdm==4.66.2
+folium==0.16.0
+lxml==5.1.0
